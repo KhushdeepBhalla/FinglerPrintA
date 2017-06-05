@@ -1,0 +1,9 @@
+C:\Users\khushdeep.kumar\Downloads\xamarin-fingerprint-master (3)\xamarin-fingerprint-master\src\Sample\SMS.Fingerprint.Sample.Mac\bin\Debug\SMS.Fingerprint.Sample.Mac.exe
+C:\Users\khushdeep.kumar\Downloads\xamarin-fingerprint-master (3)\xamarin-fingerprint-master\src\Sample\SMS.Fingerprint.Sample.Mac\bin\Debug\SMS.Fingerprint.Sample.Mac.pdb
+C:\Users\khushdeep.kumar\Downloads\xamarin-fingerprint-master (3)\xamarin-fingerprint-master\src\Sample\SMS.Fingerprint.Sample.Mac\bin\Debug\Plugin.Fingerprint.Abstractions.dll
+C:\Users\khushdeep.kumar\Downloads\xamarin-fingerprint-master (3)\xamarin-fingerprint-master\src\Sample\SMS.Fingerprint.Sample.Mac\bin\Debug\Plugin.Fingerprint.dll
+C:\Users\khushdeep.kumar\Downloads\xamarin-fingerprint-master (3)\xamarin-fingerprint-master\src\Sample\SMS.Fingerprint.Sample.Mac\bin\Debug\Plugin.Fingerprint.Abstractions.pdb
+C:\Users\khushdeep.kumar\Downloads\xamarin-fingerprint-master (3)\xamarin-fingerprint-master\src\Sample\SMS.Fingerprint.Sample.Mac\bin\Debug\Plugin.Fingerprint.pdb
+C:\Users\khushdeep.kumar\Downloads\xamarin-fingerprint-master (3)\xamarin-fingerprint-master\src\Sample\SMS.Fingerprint.Sample.Mac\obj\Debug\SMS.Fingerprint.Sample.Mac.csprojResolveAssemblyReference.cache
+C:\Users\khushdeep.kumar\Downloads\xamarin-fingerprint-master (3)\xamarin-fingerprint-master\src\Sample\SMS.Fingerprint.Sample.Mac\obj\Debug\SMS.Fingerprint.Sample.Mac.exe
+C:\Users\khushdeep.kumar\Downloads\xamarin-fingerprint-master (3)\xamarin-fingerprint-master\src\Sample\SMS.Fingerprint.Sample.Mac\obj\Debug\SMS.Fingerprint.Sample.Mac.pdb

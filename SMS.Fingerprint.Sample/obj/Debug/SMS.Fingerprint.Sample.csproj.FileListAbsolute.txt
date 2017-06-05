@@ -1,0 +1,14 @@
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\SMS.Fingerprint.Sample.dll
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\SMS.Fingerprint.Sample.pdb
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\Xamarin.Forms.Core.dll
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\Xamarin.Forms.Platform.dll
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\Xamarin.Forms.Core.pdb
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\Xamarin.Forms.Core.xml
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\obj\Debug\SMS.Fingerprint.Sample.dll
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\obj\Debug\SMS.Fingerprint.Sample.pdb
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\obj\Debug\SMS.Fingerprint.Sample.dll.mdb
+E:\ProjectsXamarin\FinglerPrint\SMS.Fingerprint.Sample\bin\Debug\SMS.Fingerprint.Sample.dll.mdb
